@@ -19,6 +19,7 @@
 * Electricity Markets & Energy Markets:
    * **Xiaotian Sun**, Haipeng Xie, Yun Wang, Chen Chen, and Zhaohong Bie, Pricing for TSO-DSO Coordination: A Decentralized Incentive Compatible Approach, _IEEE Transactions on Power Systems_, 2022, early access, doi: [10.1109/tpwrs.2022.3170436](https://ieeexplore.ieee.org/document/9763307).
    * Yun Wang, Haipeng Xie, **Xiaotian Sun**, Lingfeng Tang, and Zhaohong Bie, A Cross-Chain Enabled Day-Ahead Collaborative Power-Carbon-TGC Market, _Energy_, 2022, 258, 124881, doi: [10.1016/j.energy.2022.124881](https://www.sciencedirect.com/science/article/pii/S0360544222017844).
+   * Haipeng Xie, Yun Wang, Hanyu Ren, **Xiaotian Sun**, and Zhaohong Bie, Incemental Green Certificate Towards Flexibility Incentive for Renewable Dominated Power Systems, _Journal of Cleaner Production_, 2022, 134345, doi:[10.1016/j.jclepro.2022.134345](https://doi.org/10.1016/j.jclepro.2022.134345).
  * Energy System Resilience Evaluation & Enhancement:
    * Haipeng Xie, **Xiaotian Sun**, Chen Chen, Zhaohong Bie, and João P. S. Catalão, Resilience Metrics for Integrated Power and Natural Gas Systems, _IEEE Transactions on Smart Grid_, 13(3), 2483-2486, doi: [10.1109/tsg.2022.3145635](https://ieeexplore.ieee.org/document/9690611).
    * **Xiaotian Sun**, Haipeng Xie, Zhaohong Bie, Gengfeng Li, Restoration of High-Renewable-Penetrated Distribution Systems Considering Uncertain Repair Workloads, _CSEE Journal of Power and Energy Systems_, early access, doi: [10.17775/CSEEJPES.2021.06500](https://ieeexplore.ieee.org/document/9862576/).
